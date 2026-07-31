@@ -53,6 +53,7 @@ sudo uv run ebpf-tracer -o events.jsonl        # write events to file while stre
 
 ## Detection Rules
 
+
 | ID | Name | Severity | MITRE ATT&CK | Trigger |
 |----|------|----------|--------------|---------|
 | D001 | Privilege Escalation | CRITICAL | T1548 | setuid(0) by non-root |
