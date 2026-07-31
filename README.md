@@ -43,6 +43,7 @@ sudo uv run ebpf-tracer
 
 ## Usage
 
+
 ```bash
 sudo uv run ebpf-tracer                       # trace all syscalls (live mode)
 sudo uv run ebpf-tracer -f json -s MEDIUM      # JSON output, MEDIUM+ severity
