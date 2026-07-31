@@ -68,6 +68,7 @@ sudo uv run ebpf-tracer -o events.jsonl        # write events to file while stre
 | D009 | Log Tampering | MEDIUM | T1070.002 | Log file deletion/truncation |
 | D010 | Suspicious Mount | HIGH | T1611 | mount syscall |
 
+
 ## Learn
 
 This project includes step-by-step learning materials covering security theory, architecture, and implementation.
