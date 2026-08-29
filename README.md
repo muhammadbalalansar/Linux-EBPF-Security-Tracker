@@ -16,6 +16,7 @@
 
 > Real-time syscall tracing tool using eBPF for security observability — monitors process execution, file access, network connections, privilege changes, and system operations to detect suspicious behavior.
 
+
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
 ## What It Does
