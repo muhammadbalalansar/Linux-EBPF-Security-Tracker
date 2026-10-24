@@ -18,7 +18,7 @@
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
-## What It Does
+## What It Does:
 
 - Real-time syscall monitoring via eBPF tracepoints (process, file, network, privilege, system)
 - 10 built-in detection rules mapped to MITRE ATT&CK techniques
