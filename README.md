@@ -68,7 +68,7 @@ sudo uv run ebpf-tracer -o events.jsonl        # write events to file while stre
 
 ## Learn:
 
-This project includes step-by-step learning materials covering security theory, architecture, and implementation
+This project includes step-by-step learning materials covering security theory, architecture,and implementation
 
 | Module | Topic |
 |--------|-------|
