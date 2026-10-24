@@ -28,7 +28,7 @@
 - Event enrichment from /proc filesystem (parent process, username)
 - Clean signal handling and eBPF program cleanup
 
-## Quick Start
+## Quick Start:
 
 ```bash
 ./install.sh
