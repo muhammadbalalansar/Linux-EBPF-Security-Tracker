@@ -51,7 +51,7 @@ sudo uv run ebpf-tracer -c nginx               # filter by process name
 sudo uv run ebpf-tracer -o events.jsonl        # write events to file while streaming
 ```
 
-## Detection Rules
+## Detection Rules:
 
 | ID | Name | Severity | MITRE ATT&CK | Trigger |
 |----|------|----------|--------------|---------|
