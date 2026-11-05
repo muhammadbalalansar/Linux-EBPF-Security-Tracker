@@ -14,7 +14,7 @@
 [![C](https://img.shields.io/badge/C-eBPF-A8B9CC?style=flat&logo=c&logoColor=black)](https://ebpf.io)
 [![License: AGPLv3](https://img.shields.io/badge/License-AGPL_v3-purple.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-> Real-time syscall tracing tool using eBPF for security observability — monitors process execution, file access, network connections, privilege changes, and system operations to detect suspicious behavior.
+> Real-time syscall tracing tool using eBPF for security observability — monitors process execution, file access, network connections, privilege changes, and system operations to detect suspicious behavior
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
