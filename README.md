@@ -41,7 +41,7 @@ sudo uv run ebpf-tracer
 > Install: `curl -sSf https://just.systems/install.sh | bash -s -- --to ~/.local/bin`
 
 ## Usage
-
+     
 ```bash
 sudo uv run ebpf-tracer                       # trace all syscalls (live mode)
 sudo uv run ebpf-tracer -f json -s MEDIUM      # JSON output, MEDIUM+ severity
